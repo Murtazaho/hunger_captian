@@ -1,6 +1,6 @@
-# Synamatic
+# hunger_caption
 ```
-Movie Review App, with a frontend built in React & Redux and a backend built in Django API.
+hunger_caption App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 Check out [FRONTEND LIVE DEMO](https://hunger-frontend.herokuapp.com/) here!!
 Check out [API LIVE DEMO](https://hunger-backend.herokuapp.com/) here!!
